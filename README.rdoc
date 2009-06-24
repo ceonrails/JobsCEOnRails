@@ -2,11 +2,11 @@
 
 Download and install Git
     git config --global user.name "Your Name"
-    git config --global user.email hidenowt@hotmail.com
-    git config --global github.user ceonrails
-    git config --global github.token fc34ca749c18ad57cb975f33084316bd
+    git config --global user.email seuemail@seuemail.com
+    git config --global github.user seu_usuario_github
+    git config --global github.token 1123580009876543211234567890
     Add your public key
-    ssh-keygen -C "hidenowt@hotmail.com" -t rsa
+    ssh-keygen -C "seuemail@seuemail.com" -t rsa
     http://github.com/guides/providing-your-ssh-key
 
 Next steps:
